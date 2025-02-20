@@ -1,5 +1,5 @@
-import { Button, Typography } from "@mui/material";
-import { IDashboardPresentation } from "./interface";
+import { Button, Typography } from '@mui/material';
+import { IDashboardPresentation } from './interface';
 
 export default function DashboardPresentation(state: IDashboardPresentation) {
   return (
